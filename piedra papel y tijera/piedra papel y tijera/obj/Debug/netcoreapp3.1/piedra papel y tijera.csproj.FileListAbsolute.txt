@@ -1,0 +1,13 @@
+C:\Users\Jochibaez\source\repos\piedra papel y tijera\piedra papel y tijera\bin\Debug\netcoreapp3.1\piedra papel y tijera.exe
+C:\Users\Jochibaez\source\repos\piedra papel y tijera\piedra papel y tijera\bin\Debug\netcoreapp3.1\piedra papel y tijera.deps.json
+C:\Users\Jochibaez\source\repos\piedra papel y tijera\piedra papel y tijera\bin\Debug\netcoreapp3.1\piedra papel y tijera.runtimeconfig.json
+C:\Users\Jochibaez\source\repos\piedra papel y tijera\piedra papel y tijera\bin\Debug\netcoreapp3.1\piedra papel y tijera.runtimeconfig.dev.json
+C:\Users\Jochibaez\source\repos\piedra papel y tijera\piedra papel y tijera\bin\Debug\netcoreapp3.1\piedra papel y tijera.dll
+C:\Users\Jochibaez\source\repos\piedra papel y tijera\piedra papel y tijera\bin\Debug\netcoreapp3.1\piedra papel y tijera.pdb
+C:\Users\Jochibaez\source\repos\piedra papel y tijera\piedra papel y tijera\obj\Debug\netcoreapp3.1\piedra papel y tijera.csprojAssemblyReference.cache
+C:\Users\Jochibaez\source\repos\piedra papel y tijera\piedra papel y tijera\obj\Debug\netcoreapp3.1\piedra papel y tijera.csproj.CoreCompileInputs.cache
+C:\Users\Jochibaez\source\repos\piedra papel y tijera\piedra papel y tijera\obj\Debug\netcoreapp3.1\piedra papel y tijera.AssemblyInfoInputs.cache
+C:\Users\Jochibaez\source\repos\piedra papel y tijera\piedra papel y tijera\obj\Debug\netcoreapp3.1\piedra papel y tijera.AssemblyInfo.cs
+C:\Users\Jochibaez\source\repos\piedra papel y tijera\piedra papel y tijera\obj\Debug\netcoreapp3.1\piedra papel y tijera.dll
+C:\Users\Jochibaez\source\repos\piedra papel y tijera\piedra papel y tijera\obj\Debug\netcoreapp3.1\piedra papel y tijera.pdb
+C:\Users\Jochibaez\source\repos\piedra papel y tijera\piedra papel y tijera\obj\Debug\netcoreapp3.1\piedra papel y tijera.genruntimeconfig.cache
